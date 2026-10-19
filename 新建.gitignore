@@ -1,0 +1,6 @@
+# Java编译文件
+*.class
+# VS Code配置文件夹
+.vscode/
+# 日志文件
+*.log
